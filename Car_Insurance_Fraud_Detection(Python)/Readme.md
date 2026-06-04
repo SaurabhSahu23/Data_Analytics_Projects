@@ -1,5 +1,5 @@
 
- ## Problem Statement  :
+ ## Problem Statement 
 🚗 Car Insurance Claims – Fraud Detection
 
 
@@ -50,7 +50,7 @@ total_claim_amount : The total financial claim made by the insured
 
 fraud_reported : Whether fraud was reported (Y/N)
 
-## Goal :-
+## Goal 
 
 predicts if an insurance claim is fraudulent or not.
 
