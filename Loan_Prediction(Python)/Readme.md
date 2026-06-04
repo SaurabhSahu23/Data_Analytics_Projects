@@ -1,4 +1,4 @@
-## Problem Statement:
+## Problem Statement
     
 Loan Application Status Prediction
 
@@ -34,7 +34,7 @@ Loan_Status : Loan approved (Y/N) this is the target variable
 
 Target Variable - Loan_Status
 
-## Dependent Variable (Target Variable):
+## Dependent Variable (Target Variable)
 
 - Loan_Status
 
