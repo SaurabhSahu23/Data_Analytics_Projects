@@ -67,9 +67,6 @@ Implemented and evaluated multiple classification algorithms:
 Models were compared using classification performance metrics such as:
 
 * Accuracy
-* Precision
-* Recall
-* F1 Score
 * Confusion Matrix
 
 ---
