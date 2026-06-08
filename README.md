@@ -1,1 +1,1 @@
-This repository contains all the data analytics projects.
+This repository contains all my data analytics projects.
