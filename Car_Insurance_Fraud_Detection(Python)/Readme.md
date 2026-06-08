@@ -1,3 +1,128 @@
+# Car Insurance Fraud Detection
+
+## Project Overview
+
+Insurance fraud is a major challenge for insurance companies, leading to significant financial losses and increased operational costs. This project develops a Machine Learning classification model to identify potentially fraudulent car insurance claims using customer, policy, vehicle, and accident-related information.
+
+The project demonstrates an end-to-end machine learning workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, data preprocessing, model development, and performance evaluation.
+
+---
+
+## Problem Statement
+
+The objective of this project is to build a predictive model capable of classifying insurance claims as fraudulent or non-fraudulent based on historical claim data.
+
+By accurately detecting suspicious claims, insurance companies can reduce fraud-related losses, improve operational efficiency, and support data-driven decision-making.
+
+---
+
+## Dataset Information
+
+* Records: 30,000 Insurance Claims
+* Features: 24 Variables
+* Target Variable: Fraud Status
+
+The dataset includes information related to:
+
+* Customer demographics
+* Policy details
+* Vehicle information
+* Accident characteristics
+* Claim amounts
+* Insurance coverage
+* Fraud indicators
+
+---
+
+## Project Workflow
+
+### 1. Data Preprocessing
+
+* Handled missing values
+* Removed inconsistencies and duplicate records
+* Encoded categorical variables
+* Applied feature scaling where required
+* Prepared data for machine learning models
+
+### 2. Exploratory Data Analysis (EDA)
+
+Performed data analysis to understand:
+
+* Fraud distribution
+* Claim amount patterns
+* Customer and vehicle characteristics
+* Relationships between features and fraud occurrence
+* Potential predictors of fraudulent claims
+
+### 3. Model Development
+
+Implemented and evaluated multiple classification algorithms:
+
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+
+### 4. Model Evaluation
+
+Models were compared using classification performance metrics such as:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+
+---
+
+## Results
+
+Among the evaluated models, the Random Forest Classifier achieved the best overall performance.
+
+**Best Model:** Random Forest Classifier
+
+**Accuracy:** 88.52%
+
+The results demonstrate that machine learning techniques can effectively identify fraudulent insurance claims and assist insurance companies in risk management and fraud prevention.
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Data Visualization
+* Classification Modeling
+* Model Evaluation
+* Machine Learning
+* Business Problem Solving
+
+---
+
+## Repository Contents
+
+* Car_Insurance_Fraud_Detection_project.ipynb
+* car_insur.csv
+* README.md
+
+---
+
+## Project Objective
+
+To leverage machine learning techniques for detecting fraudulent car insurance claims and demonstrate a complete data science workflow from raw data to predictive modeling and business insights.
 
  ## Problem Statement 
 🚗 Car Insurance Claims – Fraud Detection
