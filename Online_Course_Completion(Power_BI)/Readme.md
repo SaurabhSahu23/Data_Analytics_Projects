@@ -86,7 +86,7 @@ The dashboard helps answer questions such as:
 
 - `Online courses analysis.pbix` – Power BI Dashboard
 - `Course_Completion_Prediction.csv` – Source Dataset
-- `Report.pdf` - Report Pdf
+- `Report.pdf` - Report quick view
 
 ---
 
